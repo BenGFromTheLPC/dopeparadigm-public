@@ -17,7 +17,7 @@ It does **not** mirror private source code. The real production repos stay priva
 ### Public-Facing Apps
 - [Dope Paradigm HQ](./projects/dphq/README.md) — the fan-facing iOS app for music, content, and immersive artist access
 - [Quotes For Days](./projects/quotes-for-days/README.md) — a public-facing quotes and reflection app
-- [Shake-It!](./projects/shake-it/README.md) — a game built with Codex and shipped to the App Store
+- [Snake-It!](./projects/shake-it/README.md) — an old-school snake game built with Metal 4 and shipped to the App Store
 
 ### Internal / Operator Apps
 - [Dope Paradigm Portal](./projects/dpp/README.md) — the operator portal for catalog, media, and internal content workflows
@@ -30,7 +30,7 @@ It does **not** mirror private source code. The real production repos stay priva
 - [2026-05-29 — Dope Paradigm HQ Music Playback, Top Plays, and Catalog Polish](./updates/2026-05-29-dphq-music-playback-top-plays-and-catalog-polish.md)
 - [2026-05-23 — Apple Music Import Workflow and Shared Music Pipeline Progress](./updates/2026-05-23-apple-music-import-workflow-and-shared-music-pipeline-progress.md)
 - [2026-05-29 — Public Portfolio Layer and Dashboard Strategy](./updates/2026-05-29-public-portfolio-layer-and-dashboard-strategy.md)
-- [2026-03-01 — Shake-It! App Store Momentum](./updates/2026-03-01-shake-it-app-store-momentum.md)
+- [2026-03-01 — Snake-It! App Store Momentum](./updates/2026-03-01-shake-it-app-store-momentum.md)
 
 ## What You’ll Find Here
 

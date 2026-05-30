@@ -1,16 +1,18 @@
-# 2026-03-01 — Shake-It! App Store Momentum
+# 2026-03-01 — Snake-It! App Store Momentum
 
-Shake-It! represents a different side of the Dope Paradigm world: playful, lightweight, and public-facing.
+Snake-It! represents a different side of the Dope Paradigm world: playful, lightweight, and public-facing.
 
 ## What Changed
 
 - the game shipped as a real App Store product
+- the project centered around a classic snake format with fast mobile replay energy
+- the game was built with Metal 4
 - Codex-assisted development helped accelerate the path from idea to execution
 - the project became an early public proof point that this workflow can ship
 
 ## Why It Matters
 
-Shake-It! matters because it shows range. The same artist-first builder mindset that supports music systems and internal tools can also ship smaller public products with a different tone and different audience.
+Snake-It! matters because it shows range. The same artist-first builder mindset that supports music systems and internal tools can also ship smaller public products with a different tone and different audience.
 
 ## Public-Safe Summary
 
