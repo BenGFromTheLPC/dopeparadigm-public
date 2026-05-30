@@ -25,8 +25,9 @@ At a high level, the app is organized around a practical end-to-end form workflo
 - apprentice and form-type selection routes users into the correct form path
 - form screens support required validation, comments, and digital signature capture
 - draft persistence and restore flows reduce data loss during interrupted sessions
-- generated PDF and CSV outputs preserve a structured local record
-- network-aware submission and submission-history views support operational follow-through
+- generated PDF and spreadsheet outputs preserve a structured local record
+- submission requests trigger automation flows that archive records and notify internal teams
+- submission-history views support operational follow-through and traceability
 
 ## Framework / Feature Notes
 
@@ -38,6 +39,27 @@ At a high level, this project currently uses:
 - Apple's Network framework (connectivity monitoring)
 - PDF generation on Apple platforms
 - local file persistence for generated artifacts
+- Microsoft Power Automate for downstream workflow orchestration
+- SharePoint as an internal document destination for submitted artifacts
+- Microsoft Teams notifications for internal visibility after successful submission
+
+## Submission and Internal Delivery Flow
+
+At a high level, submission behavior is designed around operational reliability:
+
+- FieldForms generates a PDF and spreadsheet-style export during submission
+- the app sends the payload into Power Automate endpoints
+- Power Automate stores the submitted files in SharePoint
+- Power Automate posts a Teams message with a link to the SharePoint files so internal stakeholders can open the submitted record quickly
+
+## Network Awareness and Fallback Behavior
+
+FieldForms includes network-detection safeguards to reduce failed submissions:
+
+- submissions are disabled when the iPad is offline
+- the app warns users when connectivity is weak (Wi-Fi or cellular), indicating submissions may fail or return an error
+- if a network error occurs, local copies of generated files remain available on the iPad
+- those local files can be moved manually when needed (for example via AirDrop, external storage, or email)
 
 ## Distribution Approach
 
@@ -49,7 +71,7 @@ This project improved operational consistency by giving teams one standardized i
 
 ## Public-Safe Summary
 
-FieldForms is a private internal iPadOS operations app for structured form workflows. It demonstrates how a focused Apple-platform tool can combine guided input, local artifact generation, and managed enterprise distribution without exposing sensitive internal process details or private implementation logic.
+FieldForms is a private internal iPadOS operations app for structured form workflows. It demonstrates how a focused Apple-platform tool can combine guided input, local artifact generation, managed enterprise distribution, and connected Microsoft workflow automation without exposing sensitive internal process details or private implementation logic.
 
 ## Status
 
