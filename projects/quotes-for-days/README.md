@@ -16,7 +16,7 @@ Quotes For Days represents another branch of the Dope Paradigm world: not just m
 
 ## Platform
 
-- public-facing app experience
+- iOS
 
 ## Live App
 

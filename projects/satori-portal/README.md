@@ -2,11 +2,11 @@
 
 ## What It Is
 
-**Satori Portal** is the larger admin/web/mac direction planned around the Satori system.
+**Satori Portal** is the larger macOS direction planned around the Satori system.
 
 ## Role in the Ecosystem
 
-If Satori becomes the personal command center, Satori Portal is the larger operator-facing expansion layer: the place where broader management, review, and control workflows can live over time.
+If Satori becomes the personal command center, Satori Portal is the larger expansion layer: the place where broader management, review, and control workflows can live over time.
 
 ## Audience
 
@@ -14,11 +14,9 @@ If Satori becomes the personal command center, Satori Portal is the larger opera
 - admin/operator workflows
 - future system expansion
 
-## Platform Direction
+## Platform
 
-- web
 - macOS
-- admin/operator surfaces
 
 ## Why It Matters
 

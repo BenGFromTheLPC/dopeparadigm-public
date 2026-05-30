@@ -10,13 +10,13 @@ Satori is intended to become a more personal control layer inside the Dope Parad
 
 ## Audience
 
-- Ben-G
+- Ben-G From The LPC tool for posting and managing content
 - internal operator use
 - long-term system control
 
 ## Platform
 
-- iPhone / iOS
+- iOS
 
 ## Current Direction
 
