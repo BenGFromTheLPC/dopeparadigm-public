@@ -18,6 +18,10 @@ Snake-It! proves that the Dope Paradigm world is not limited to music and admin 
 
 Snake-It! is an old-school snake game built for quick runs, high-score chasing, and fast replay loops. It takes a familiar arcade idea and gives it a cleaner modern feel with swipe-based control and tight mobile pacing.
 
+## Live App
+
+- [Snake-It! on the App Store](https://apps.apple.com/us/app/snake-it/id6759208908)
+
 ## Platform / Tech Notes
 
 - iPhone
