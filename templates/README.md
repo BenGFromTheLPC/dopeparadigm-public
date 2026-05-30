@@ -8,6 +8,7 @@ These templates are the first stop before drafting:
 
 - public update posts
 - project pages
+- enterprise project pages
 - future release-style summaries
 
 They are here to keep the repo consistent in tone, structure, and level of detail.

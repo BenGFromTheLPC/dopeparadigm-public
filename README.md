@@ -45,6 +45,12 @@ This matters because the portfolio is not only about isolated app ideas. It is a
 - [Satori Portal](./projects/satori-portal/README.md) — the larger admin/web/mac layer planned around Satori workflows
 - [Quotes For Days Portal](./projects/quotes-for-days-portal/README.md) — the internal management surface for the Quotes For Days ecosystem
 
+## Enterprise Projects
+
+Alongside the Dope Paradigm ecosystem, this repo also has room for anonymized enterprise-facing app and workflow write-ups. These pages focus on app structure, UX, workflow design, mobile data capture, and operational outcomes without naming employers or exposing company-sensitive details.
+
+- [Enterprise Projects Overview](./enterprise-projects/README.md)
+
 ## Recent Updates
 
 - [2026-05-29 — Dope Paradigm HQ Music Playback, Top Plays, and Catalog Polish](./updates/2026-05-29-dphq-music-playback-top-plays-and-catalog-polish.md)
@@ -55,6 +61,7 @@ This matters because the portfolio is not only about isolated app ideas. It is a
 ## What You’ll Find Here
 
 - `projects/` — evergreen project pages
+- `enterprise-projects/` — anonymized workplace and internal-system case studies
 - `updates/` — dated progress logs and milestone notes
 - `assets/` — public-safe visuals and media used across pages
 - `templates/` — lightweight templates for future public update drafts
