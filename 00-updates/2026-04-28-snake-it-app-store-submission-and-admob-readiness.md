@@ -1,4 +1,4 @@
-# 2026-05-30 — Snake-It! App Store Submission and AdMob Readiness
+# 2026-04-28 — Snake-It! App Store Submission and AdMob Readiness
 
 Snake-It! kept moving from “shipped project” into a more complete public product this week.
 
