@@ -34,7 +34,7 @@ Current work is centered around:
 ## Recent Notable Context
 
 - First released from an earlier chapter of the Dope Paradigm build journey.
-- Represents one of the first apps Ben-G wrote well before AI-assisted development became part of the workflow.
+- Represents one of the first apps Ben-G wrote in 2018 well before AI-assisted development became part of the workflow.
 - Became an important personal proof point: coding could become a real part of the creative toolkit, not just an experiment.
 - Remains live, which gives it a different kind of weight inside the ecosystem than a shelved prototype.
 
