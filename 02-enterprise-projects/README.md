@@ -40,3 +40,4 @@ These pages should focus on:
 This section now includes live anonymized enterprise project pages:
 
 - [GearGate / GearGateTV](./geargate/README.md) — a private Apple-platform workflow system for device handling, queue visibility, and internal operations support
+- [FieldForms](./fieldforms/README.md) — a private iPadOS form-operations app for guided field submission workflows, signature capture, and managed internal deployment
