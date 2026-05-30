@@ -18,6 +18,7 @@ Quotes For Days Portal represents the internal side of a public/private product 
 ## Platform
 
 - macOS
+- Web
 
 ## Current Direction
 
