@@ -6,7 +6,7 @@
 
 ## Role in the Ecosystem
 
-Satori is intended to become a more personal control layer inside the Dope Paradigm world. Where DPP is focused on a specific operator domain, Satori is meant to feel broader: a place to track work, organize content, and eventually interact with larger system behavior.
+Satori is intended to become a more personal control layer inside the Dope Paradigm world. Where Dope Paradigm Portal is focused on a specific operator domain, Satori is meant to feel broader: a place to track work, organize content, and eventually interact with larger system behavior.
 
 ## Audience
 

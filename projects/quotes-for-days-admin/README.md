@@ -1,12 +1,12 @@
-# Quotes For Days Admin Portal
+# Quotes For Days Portal
 
 ## What It Is
 
-**Quotes For Days Admin Portal** is the internal management surface for the Quotes For Days app ecosystem.
+**Quotes For Days Portal** is the internal management surface for the Quotes For Days app ecosystem.
 
 ## Role in the Ecosystem
 
-Like DPP supports the music side, the Quotes For Days Admin Portal represents the operator layer behind a public-facing app experience. It exists to make public app behavior manageable from the inside.
+Like Dope Paradigm Portal supports the music side, the Quotes For Days Portal represents the operator layer behind a public-facing app experience. It exists to make public app behavior manageable from the inside.
 
 ## Audience
 

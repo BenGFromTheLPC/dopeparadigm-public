@@ -15,19 +15,19 @@ It does **not** mirror private source code. The real production repos stay priva
 ## The Ecosystem
 
 ### Public-Facing Apps
-- [DPHQ](./projects/dphq/README.md) — the fan-facing iOS app for music, content, and immersive artist access
+- [Dope Paradigm HQ](./projects/dphq/README.md) — the fan-facing iOS app for music, content, and immersive artist access
 - [Quotes For Days](./projects/quotes-for-days/README.md) — a public-facing quotes and reflection app
 - [Shake-It!](./projects/shake-it/README.md) — a game built with Codex and shipped to the App Store
 
 ### Internal / Operator Apps
-- [DPP](./projects/dpp/README.md) — the operator portal for catalog, media, and internal content workflows
+- [Dope Paradigm Portal](./projects/dpp/README.md) — the operator portal for catalog, media, and internal content workflows
 - [Satori](./projects/satori/README.md) — a personal command center and internal operator interface
 - [Satori Portal](./projects/satori-portal/README.md) — the larger admin/web/mac layer planned around Satori workflows
-- [Quotes For Days Admin Portal](./projects/quotes-for-days-admin/README.md) — the internal management surface for the Quotes For Days ecosystem
+- [Quotes For Days Portal](./projects/quotes-for-days-admin/README.md) — the internal management surface for the Quotes For Days ecosystem
 
 ## Recent Updates
 
-- [2026-05-29 — DPHQ Music Playback, Top Plays, and Catalog Polish](./updates/2026-05-29-dphq-music-playback-top-plays-and-catalog-polish.md)
+- [2026-05-29 — Dope Paradigm HQ Music Playback, Top Plays, and Catalog Polish](./updates/2026-05-29-dphq-music-playback-top-plays-and-catalog-polish.md)
 - [2026-05-23 — Apple Music Import Workflow and Shared Music Pipeline Progress](./updates/2026-05-23-apple-music-import-workflow-and-shared-music-pipeline-progress.md)
 - [2026-05-29 — Public Portfolio Layer and Dashboard Strategy](./updates/2026-05-29-public-portfolio-layer-and-dashboard-strategy.md)
 - [2026-03-01 — Shake-It! App Store Momentum](./updates/2026-03-01-shake-it-app-store-momentum.md)

@@ -4,7 +4,7 @@ The internal music workflow took a real step forward this week.
 
 ## What Changed
 
-- Apple Music import became a real operator workflow inside DPP
+- Apple Music import became a real operator workflow inside Dope Paradigm Portal
 - release grouping became cleaner across Albums, EPs, Singles, and Tracks
 - metadata handling improved for imported music records
 - artwork behavior became more reliable across imported content

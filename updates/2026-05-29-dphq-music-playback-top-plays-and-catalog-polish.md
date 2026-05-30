@@ -1,10 +1,10 @@
-# 2026-05-29 — DPHQ Music Playback, Top Plays, and Catalog Polish
+# 2026-05-29 — Dope Paradigm HQ Music Playback, Top Plays, and Catalog Polish
 
-DPHQ kept getting stronger as a real music product this week.
+Dope Paradigm HQ kept getting stronger as a real music product this week.
 
 ## What Changed
 
-- Apple Music playback inside DPHQ was refined
+- Apple Music playback inside Dope Paradigm HQ was refined
 - catalog sorting and release metadata got cleaner
 - artwork behavior improved across music surfaces
 - Top Plays got a better visual treatment

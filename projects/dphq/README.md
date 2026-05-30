@@ -1,12 +1,12 @@
-# DPHQ
+# Dope Paradigm HQ
 
 ## What It Is
 
-**DPHQ** is the public-facing iOS app in the Dope Paradigm world. It is designed as the fan-facing home for music, content, and deeper artist access.
+**Dope Paradigm HQ** is the public-facing iOS app in the Dope Paradigm world. It is designed as the fan-facing home for music, content, and deeper artist access.
 
 ## Role in the Ecosystem
 
-DPHQ is where the public experience becomes real. It turns the internal catalog and publishing work happening elsewhere in the system into something fans can actually browse, play, and connect with.
+Dope Paradigm HQ is where the public experience becomes real. It turns the internal catalog and publishing work happening elsewhere in the system into something fans can actually browse, play, and connect with.
 
 ## Audience
 
@@ -39,7 +39,7 @@ Current work has been centered around:
 
 ## Framework / Feature Notes
 
-At a high level, DPHQ currently leans on:
+At a high level, Dope Paradigm HQ currently leans on:
 - SwiftUI
 - Firebase Auth
 - Firestore
@@ -50,4 +50,4 @@ At a high level, DPHQ currently leans on:
 
 Active and evolving.
 
-DPHQ is one of the clearest examples of the Dope Paradigm ecosystem becoming a real product surface instead of just an internal idea.
+Dope Paradigm HQ is one of the clearest examples of the Dope Paradigm ecosystem becoming a real product surface instead of just an internal idea.

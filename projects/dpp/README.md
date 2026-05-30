@@ -1,12 +1,12 @@
-# DPP
+# Dope Paradigm Portal
 
 ## What It Is
 
-**DPP (Dope Paradigm Portal)** is the internal macOS operator portal used to manage catalog records, media workflows, imports, and admin-side visibility across the music system.
+**Dope Paradigm Portal** is the internal macOS operator portal used to manage catalog records, media workflows, imports, and admin-side visibility across the music system.
 
 ## Role in the Ecosystem
 
-DPP is the control surface behind much of the public-facing music experience. It helps shape the catalog and operator workflows that eventually feed the fan-facing app.
+Dope Paradigm Portal is the control surface behind much of the public-facing music experience. It helps shape the catalog and operator workflows that eventually feed the fan-facing app.
 
 ## Audience
 
@@ -39,7 +39,7 @@ Current work has focused on:
 
 ## Framework / Feature Notes
 
-At a high level, DPP currently uses:
+At a high level, Dope Paradigm Portal currently uses:
 - SwiftUI
 - Firebase Auth
 - Firestore
@@ -49,4 +49,4 @@ At a high level, DPP currently uses:
 
 Active internal system.
 
-DPP is the operational bridge between the private system and the public fan experience.
+Dope Paradigm Portal is the operational bridge between the private system and the public fan experience.
