@@ -2,7 +2,7 @@
 
 ## What It Is
 
-**GearGate** is an anonymized internal device operations system built around iPad checkout, return tracking, accessory accountability, live queue visibility, and signed workflow documentation. It includes an iPadOS app for hands-on workflow execution and an Apple TV companion app that turns the same workflow into a shared room-level dashboard.
+**GearGate** is an anonymized internal device operations system built around iPad/radio checkout, return tracking, accessory accountability, live queue visibility, and signed workflow documentation. It includes an iPadOS app for hands-on workflow execution and an Apple TV companion app that turns the same workflow into a shared room-level dashboard.
 
 ## Problem It Helped Solve
 
