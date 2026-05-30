@@ -17,7 +17,7 @@ Dope Paradigm HQ is where the public experience becomes real. It turns the inter
 
 ## Platform
 
-- iPhone / iOS
+- iOS
 
 ## Current Focus
 
