@@ -40,7 +40,7 @@ This matters because the portfolio is not only about isolated app ideas. It is a
 - [Snake-It!](./projects/snake-it/README.md) — an old-school snake game built with Metal 4 and shipped to the App Store
 
 ### Internal / Operator Apps
-- [Dope Paradigm Portal](./projects/dopeparadigm-portal/README.md) — the operator portal for catalog, media, and internal content workflows
+- [Dope Paradigm Portal](./projects/dope-paradigm-portal/README.md) — the operator portal for catalog, media, and internal content workflows
 - [Satori](./projects/satori/README.md) — a personal command center and internal operator interface
 - [Satori Portal](./projects/satori-portal/README.md) — the larger admin/web/mac layer planned around Satori workflows
 - [Quotes For Days Portal](./projects/quotes-for-days-portal/README.md) — the internal management surface for the Quotes For Days ecosystem
