@@ -2,7 +2,11 @@
 
 This repo is the public-facing portfolio and build log for the **Dope Paradigm** world being built by **Ben-G From The LPC**.
 
-Ben-G is an artist first. Over time, that creative world expanded into building software, internal tools, connected apps, and systems that support music, content, publishing, and long-term creative operations. AI and Codex are part of that process, not as a replacement for vision, but as leverage to move ideas into reality faster.
+Ben-G is an artist first: a rapper who spent years building creative instincts around rhythm, story, audience, repetition, performance, and finishing work that actually connects with people. Over the last few years, that same energy expanded into self-taught software development, internal tooling, connected apps, and systems that support music, content, publishing, and long-term creative operations. Today that work is being accelerated by AI and Codex, not as a replacement for vision, but as leverage to build systems faster, learn faster, and bring ideas to life at a much higher rate.
+
+You can also find the broader world here:
+- [BenGFromTheLPC.com](https://www.bengfromthelpc.com/)
+- [DopeParadigm.com](https://www.dopeparadigm.com/)
 
 This repo exists to show:
 - what is being built
@@ -11,6 +15,18 @@ This repo exists to show:
 - how public-facing apps and internal tools connect
 
 It does **not** mirror private source code. The real production repos stay private. This repo is the public-safe layer: project pages, screenshots, progress notes, and milestone updates.
+
+## Background and Strengths
+
+Alongside building the Dope Paradigm ecosystem, Ben-G brings experience from large-scale field technology support, endpoint management, internal app creation, and workflow automation. A few high-level strengths shaping the work here:
+
+- Built and supported custom iOS and iPadOS internal apps that reduced paper workflows, improved accountability, and connected field operations to SharePoint, PDFs, and Teams notifications
+- Managed large device fleets and real-world operational technology across high-pressure environments, including iPads, PCs, user access, permissions, and endpoint readiness
+- Uses Swift, SwiftUI, Firebase, Firestore, Cloud Functions, and Apple platform tooling to turn product ideas into real working systems
+- Builds with an MVP-first mindset: ship the working version, tighten the logic, and evolve the system intentionally
+- Uses AI-assisted development and agent-style workflows as force multipliers for architecture, coding, debugging, refactoring, and iteration
+
+This matters because the portfolio is not only about isolated app ideas. It is about building durable systems at the intersection of creativity, product thinking, operator tooling, and modern Apple development.
 
 ## The Ecosystem
 
