@@ -23,10 +23,14 @@ Alongside building the Dope Paradigm ecosystem, Ben-G brings experience from lar
 - Built and supported custom iOS and iPadOS internal apps that reduced paper workflows, improved accountability, and connected field operations to SharePoint, PDFs, and Teams notifications
 - Managed large device fleets and real-world operational technology across high-pressure environments, including iPads, PCs, user access, permissions, and endpoint readiness
 - Uses Swift, SwiftUI, Firebase, Firestore, Cloud Functions, and Apple platform tooling to turn product ideas into real working systems
+- Uses Microsoft Intune, Microsoft 365, Entra ID, SharePoint, and Azure-oriented learning/lab work to support real-world endpoint management, access control, and internal technology operations
+- Builds documentation and operating clarity with Notion, using it for roadmaps, architecture notes, workflow design, planning, backlog tracking, and system thinking instead of letting product knowledge stay trapped in someone’s head
+- Designs Power Automate workflows that connect APIs, HTTP requests, JSON payloads, document generation, notifications, and storage flows so operational data can move cleanly between people, forms, systems, and decisions
+- Thinks deeply about data capture in real working environments and believes small custom mobile apps are often the missing layer between field work, accountability, and reliable digital systems
 - Builds with an MVP-first mindset: ship the working version, tighten the logic, and evolve the system intentionally
 - Uses AI-assisted development and agent-style workflows as force multipliers for architecture, coding, debugging, refactoring, and iteration
 
-This matters because the portfolio is not only about isolated app ideas. It is about building durable systems at the intersection of creativity, product thinking, operator tooling, and modern Apple development.
+This matters because the portfolio is not only about isolated app ideas. It is about building durable systems at the intersection of creativity, product thinking, operator tooling, documentation, automation, modern Apple development, and real-world workforce technology.
 
 ## The Ecosystem
 
