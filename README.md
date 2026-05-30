@@ -61,7 +61,7 @@ Alongside the Dope Paradigm ecosystem, this repo also has room for anonymized en
 ## What You’ll Find Here
 
 - `01-projects/` — evergreen project pages
-- `02-enterprise-projects/` — anonymized workplace and internal-system case studies
+- `02-enterprise-projects/` — enterprise projects and solutions built for workplace and company environments
 - `00-updates/` — dated progress logs and milestone notes
 - `03-assets/` — public-safe visuals and media used across pages
 - `04-templates/` — lightweight templates for future public update drafts
