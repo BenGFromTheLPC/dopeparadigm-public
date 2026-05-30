@@ -50,6 +50,7 @@ This matters because the portfolio is not only about isolated app ideas. It is a
 Alongside the Dope Paradigm ecosystem, this repo also has room for anonymized enterprise-facing app and workflow write-ups. These pages focus on app structure, UX, workflow design, mobile data capture, and operational outcomes without naming employers or exposing company-sensitive details.
 
 - [Enterprise Projects Overview](./02-enterprise-projects/README.md)
+- [GearGate / GearGateTV](./02-enterprise-projects/geargate/README.md) — an internal iPadOS and Apple TV workflow system for device handling, queue visibility, and operational accountability
 
 ## Recent Updates
 

@@ -37,4 +37,6 @@ These pages should focus on:
 
 ## Status
 
-This section is ready for future anonymized enterprise project pages.
+This section now includes live anonymized enterprise project pages:
+
+- [GearGate / GearGateTV](./geargate/README.md) — a private Apple-platform workflow system for device handling, queue visibility, and internal operations support
