@@ -35,36 +35,36 @@ This matters because the portfolio is not only about isolated app ideas. It is a
 ## The Ecosystem
 
 ### Public-Facing Apps
-- [Dope Paradigm HQ](./projects/dope-paradigm-hq/README.md) — the fan-facing iOS app for music, content, and immersive artist access
-- [Quotes For Days](./projects/quotes-for-days/README.md) — a public-facing quotes and reflection app
-- [Snake-It!](./projects/snake-it/README.md) — an old-school snake game built with Metal 4 and shipped to the App Store
+- [Dope Paradigm HQ](./01-projects/dope-paradigm-hq/README.md) — the fan-facing iOS app for music, content, and immersive artist access
+- [Quotes For Days](./01-projects/quotes-for-days/README.md) — a public-facing quotes and reflection app
+- [Snake-It!](./01-projects/snake-it/README.md) — an old-school snake game built with Metal 4 and shipped to the App Store
 
 ### Internal / Operator Apps
-- [Dope Paradigm Portal](./projects/dope-paradigm-portal/README.md) — the operator portal for catalog, media, and internal content workflows
-- [Satori](./projects/satori/README.md) — a personal command center and internal operator interface
-- [Satori Portal](./projects/satori-portal/README.md) — the larger admin/web/mac layer planned around Satori workflows
-- [Quotes For Days Portal](./projects/quotes-for-days-portal/README.md) — the internal management surface for the Quotes For Days ecosystem
+- [Dope Paradigm Portal](./01-projects/dope-paradigm-portal/README.md) — the operator portal for catalog, media, and internal content workflows
+- [Satori](./01-projects/satori/README.md) — a personal command center and internal operator interface
+- [Satori Portal](./01-projects/satori-portal/README.md) — the larger admin/web/mac layer planned around Satori workflows
+- [Quotes For Days Portal](./01-projects/quotes-for-days-portal/README.md) — the internal management surface for the Quotes For Days ecosystem
 
 ## Enterprise Projects
 
 Alongside the Dope Paradigm ecosystem, this repo also has room for anonymized enterprise-facing app and workflow write-ups. These pages focus on app structure, UX, workflow design, mobile data capture, and operational outcomes without naming employers or exposing company-sensitive details.
 
-- [Enterprise Projects Overview](./enterprise-projects/README.md)
+- [Enterprise Projects Overview](./02-enterprise-projects/README.md)
 
 ## Recent Updates
 
-- [2026-05-29 — Dope Paradigm HQ Music Playback, Top Plays, and Catalog Polish](./updates/2026-05-29-dphq-music-playback-top-plays-and-catalog-polish.md)
-- [2026-05-23 — Apple Music Import Workflow and Shared Music Pipeline Progress](./updates/2026-05-23-apple-music-import-workflow-and-shared-music-pipeline-progress.md)
-- [2026-05-29 — Public Portfolio Layer and Dashboard Strategy](./updates/2026-05-29-public-portfolio-layer-and-dashboard-strategy.md)
-- [2026-03-01 — Snake-It! App Store Momentum](./updates/2026-03-01-shake-it-app-store-momentum.md)
+- [2026-05-29 — Dope Paradigm HQ Music Playback, Top Plays, and Catalog Polish](./00-updates/2026-05-29-dphq-music-playback-top-plays-and-catalog-polish.md)
+- [2026-05-23 — Apple Music Import Workflow and Shared Music Pipeline Progress](./00-updates/2026-05-23-apple-music-import-workflow-and-shared-music-pipeline-progress.md)
+- [2026-05-29 — Public Portfolio Layer and Dashboard Strategy](./00-updates/2026-05-29-public-portfolio-layer-and-dashboard-strategy.md)
+- [2026-03-01 — Snake-It! App Store Momentum](./00-updates/2026-03-01-shake-it-app-store-momentum.md)
 
 ## What You’ll Find Here
 
-- `projects/` — evergreen project pages
-- `enterprise-projects/` — anonymized workplace and internal-system case studies
-- `updates/` — dated progress logs and milestone notes
-- `assets/` — public-safe visuals and media used across pages
-- `templates/` — lightweight templates for future public update drafts
+- `01-projects/` — evergreen project pages
+- `02-enterprise-projects/` — anonymized workplace and internal-system case studies
+- `00-updates/` — dated progress logs and milestone notes
+- `03-assets/` — public-safe visuals and media used across pages
+- `04-templates/` — lightweight templates for future public update drafts
 
 ## Current Direction
 
