@@ -14,6 +14,10 @@ Like Dope Paradigm Portal supports the music side, the Quotes For Days Portal re
 - content management
 - admin workflows
 
+## Platform
+
+- macOS
+
 ## Why It Matters
 
 This project helps make the ecosystem pattern visible:
