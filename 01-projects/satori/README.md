@@ -2,17 +2,20 @@
 
 ## What It Is
 
-**Satori** is an internal iOS tool for **Ben-G From The LPC** to manage social-media content, organize what is being created, and eventually post across platforms from a more unified system.
+**Satori** is an internal iOS command-center app for **Ben-G From The LPC**. It gives the Dope Paradigm ecosystem a mobile operator surface for reviewing music releases, media, links, tracks, and other creative-system state from one focused place.
 
 ## Role in the Ecosystem
 
-Satori is the mobile access layer for content inside the Dope Paradigm world. A big goal is to reduce the number of separate apps and manual steps currently used for posting, tracking retention, and maintaining quality, then bring those workflows into one focused tool. Over time, it is also meant to connect into the wider agent-assisted system.
+Satori is the mobile control layer for the Dope Paradigm world. It is designed to turn scattered creative operations into a cleaner system: music catalog review, promo media access, release links, track visibility, and future content workflow control.
+
+Underneath the app is **Tabularium**, the cloud memory and state system for the ecosystem. Tabularium gives Satori a shared source of truth so the iOS app can reflect what is happening across the wider private tooling layer without becoming the place where every internal workflow has to live.
 
 ## Audience
 
-- Ben-G From The LPC tool for posting and managing content
-- internal operator use
-- long-term system control
+- Ben-G From The LPC internal operator use
+- mobile review of music releases and related assets
+- creative-system visibility while away from the desktop
+- future agent-assisted workflow control
 
 ## Platform
 
@@ -20,19 +23,33 @@ Satori is the mobile access layer for content inside the Dope Paradigm world. A 
 
 ## Current Direction
 
-Satori is part of the longer-term system vision around:
-- content tracking
-- social-media posting workflow
-- organizing what has been created and published
-- internal visibility
-- operator workflow control
-- Tabularium-backed content state
+Satori is evolving around:
+
+- live music release visibility
+- front and back cover review
+- Apple Music promo image and video access
+- release links that can be copied quickly
+- track lists connected to release metadata
+- track-level promo content review
+- Tabularium-backed cloud memory and state
 - future agent-aware interfaces
+
+## Recent Notable Work
+
+- Connected release details to live catalog data.
+- Added richer cover viewing with front/back artwork support.
+- Added release links and track lists from the shared catalog layer.
+- Added track-level promo media visibility for images and videos.
+- Tightened the relationship between the iOS app and the Portal-managed music catalog.
+
+## Why It Matters
+
+Satori helps turn the Dope Paradigm ecosystem into something that can be operated, not just built. It gives the artist/operator a mobile window into the system, while Tabularium keeps the underlying memory consistent across apps.
 
 ## Public-Safe Summary
 
-Satori is still intentionally protected at a deeper implementation level, but it represents an important piece of the internal ecosystem direction: a content-management and posting system built for a solo creative operator, with **Tabularium** acting as the memory/state layer underneath and future agent connections planned on top.
+Satori is a private iOS operator app connected to Tabularium, the Dope Paradigm cloud memory system. It surfaces music catalog state, release media, links, and track-level context in a mobile interface without exposing the private implementation details behind the ecosystem.
 
 ## Status
 
-In active ecosystem planning and evolution.
+Active internal iOS tool, currently expanding around live catalog visibility and Tabularium-backed release workflows.
