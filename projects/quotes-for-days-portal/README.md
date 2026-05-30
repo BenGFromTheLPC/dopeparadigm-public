@@ -17,6 +17,7 @@ Like Dope Paradigm Portal supports the music side, the Quotes For Days Portal re
 ## Platform
 
 - macOS
+- Web (Coming soon)
 
 ## Why It Matters
 

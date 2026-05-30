@@ -18,6 +18,7 @@ Dope Paradigm Portal is the control surface behind much of the public-facing mus
 ## Platform
 
 - macOS
+- Web (Coming soon)
 
 ## Current Focus
 

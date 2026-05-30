@@ -17,6 +17,7 @@ If Satori becomes the mobile access layer, Satori Portal is the larger desktop e
 ## Platform
 
 - macOS
+- Web (Coming soon)
 
 ## Why It Matters
 
