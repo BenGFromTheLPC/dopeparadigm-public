@@ -16,7 +16,7 @@ Snake-It! shows that the Dope Paradigm world is not limited to music apps, admin
 
 ## Platform
 
-- iPhone
+- iOS
 
 ## Current Direction
 
