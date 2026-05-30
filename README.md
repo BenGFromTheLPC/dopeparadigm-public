@@ -37,7 +37,7 @@ This matters because the portfolio is not only about isolated app ideas. It is a
 ### Public-Facing Apps
 - [Dope Paradigm HQ](./projects/dphq/README.md) — the fan-facing iOS app for music, content, and immersive artist access
 - [Quotes For Days](./projects/quotes-for-days/README.md) — a public-facing quotes and reflection app
-- [Snake-It!](./projects/shake-it/README.md) — an old-school snake game built with Metal 4 and shipped to the App Store
+- [Snake-It!](./projects/snake-it/README.md) — an old-school snake game built with Metal 4 and shipped to the App Store
 
 ### Internal / Operator Apps
 - [Dope Paradigm Portal](./projects/dpp/README.md) — the operator portal for catalog, media, and internal content workflows
