@@ -28,6 +28,3 @@ This work touched:
 
 Dope Paradigm HQ now handles the move from guest browsing into sign-in more cleanly, with a steadier auth flow that feels more intentional when users decide to go deeper into the app.
 
-## Approval Check
-
-Draft only. Do not publish until approved.
