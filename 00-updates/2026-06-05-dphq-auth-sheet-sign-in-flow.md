@@ -1,4 +1,4 @@
-# 2026-06-05 — Dope Paradigm HQ Auth Sheet Sign-In Flow Stabilization
+# 2026-06-06 — Dope Paradigm HQ Auth Sheet Sign-In Flow Stabilization
 
 This round of work focused on fixing a rough edge in the guest-to-sign-in experience inside Dope Paradigm HQ.
 
