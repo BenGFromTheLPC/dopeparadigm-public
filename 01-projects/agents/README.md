@@ -63,6 +63,10 @@ The agent layer is currently focused on:
 - alignment with Satori control flows and Tabularium state
 - future command-bus coordination
 
+## Recent Milestone
+
+- 2026-07-26: Updated Jarvis to OpenClaw 2026.7.1-2 stable with Node 22.23.1. Verified SSH access, gateway health, and Discord connectivity.
+
 ## Public-Safe Summary
 
 The agent system is the execution backbone of the Dope Paradigm world: multiple purpose-built machines with distinct roles, coordinated to support a connected creative operating system while keeping sensitive orchestration and implementation details private.
