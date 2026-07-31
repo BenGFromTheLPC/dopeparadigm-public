@@ -31,6 +31,9 @@ Satori is evolving around:
 - release links that can be copied quickly
 - track lists connected to release metadata
 - track-level promo content review
+- a folder-based personal video library with a full-screen vertical feed
+- fast video search, sharing, and linked edit variants
+- a dedicated Tabularium contract layer shared with Satori Portal
 - Tabularium-backed cloud memory and state
 - future agent-aware interfaces
 
@@ -41,6 +44,8 @@ Satori is evolving around:
 - Added release links and track lists from the shared catalog layer.
 - Added track-level promo media visibility for images and videos.
 - Tightened the relationship between the iOS app and the Portal-managed music catalog.
+- Built the first verified phase of a personal video-library experience for browsing, finding, editing, and sharing existing creative clips.
+- Separated the video-library contract layer from the broader internal app engine so the operator tools can evolve without coupling unrelated app priorities.
 
 ## Why It Matters
 
@@ -52,4 +57,4 @@ Satori is a private iOS operator app connected to Tabularium, the Dope Paradigm 
 
 ## Status
 
-Active internal iOS tool, currently expanding around live catalog visibility and Tabularium-backed release workflows.
+Active internal iOS tool, currently expanding around live catalog visibility, personal video-library workflows, and Tabularium-backed state.

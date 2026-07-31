@@ -34,6 +34,9 @@ Satori Portal is currently focused on:
 - release link management
 - track lists, track numbering, and track-level metadata
 - track-level promo content uploads
+- a searchable, folder-based video library with desktop preview and metadata review
+- resilient batch video uploads with recoverable queue state
+- a dedicated Tabularium contract layer shared with Satori on iOS
 - local error visibility for debugging upload flows
 - Tabularium-backed cloud memory/state for the catalog
 
@@ -45,6 +48,8 @@ Satori Portal is currently focused on:
 - Added album tracks with ordering, numbering, editing, and deletion.
 - Added track-level promo image and video management.
 - Connected Portal-managed catalog data to Satori on iOS through the shared Tabularium-backed state layer.
+- Built the first verified desktop video-library workflow for organizing and preparing creative clips.
+- Moved shared video-library contracts into a focused Tabularium layer, keeping the operator workflow separate from the broader internal app engine.
 
 ## Why It Matters
 
@@ -56,4 +61,4 @@ Satori Portal is a private macOS admin tool connected to Tabularium, the Dope Pa
 
 ## Status
 
-Active internal macOS tool, currently centered on catalog management and Tabularium-backed music release workflows.
+Active internal macOS tool, currently centered on catalog management, personal video-library operations, and Tabularium-backed workflows.
