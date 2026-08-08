@@ -19,7 +19,7 @@ The agents are designed to turn strategy into action. While Satori provides cont
 - macOS (Jarvis)
 - Raspberry Pi / Linux (Rick)
 - Windows + WSL / Linux (Dell)
-- Windows (Que)
+- Ubuntu Linux (Que)
 - Windows-based interface node (DPSS)
 
 ## Agent Breakdown
@@ -66,6 +66,7 @@ The agent layer is currently focused on:
 ## Recent Milestone
 
 - 2026-07-26: Updated Jarvis to OpenClaw 2026.7.1-2 stable with Node 22.23.1. Verified SSH access, gateway health, and Discord connectivity.
+- 2026-08-08: Updated Que (OptiPlex 7090 running Ubuntu Linux) to OpenClaw 2026.7.1-2 stable with Node 24.19.0. Verified SSH access, gateway health, and Discord connectivity.
 
 ## Public-Safe Summary
 
