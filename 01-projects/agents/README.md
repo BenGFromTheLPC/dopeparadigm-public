@@ -63,6 +63,8 @@ The agent layer is currently focused on:
 - alignment with Satori control flows and Tabularium state
 - future command-bus coordination
 
+The creative responsibilities described below remain theoretical while Satori is still being built and stabilized. Once Satori is stable, the agents can be implemented into the Ben-G From The LPC creative workflow.
+
 ## Recent Milestone
 
 - 2026-07-26: Updated Jarvis to OpenClaw 2026.7.1-2 stable with Node 22.23.1. Verified SSH access, gateway health, and Discord connectivity.
@@ -74,4 +76,4 @@ The agent system is the execution backbone of the Dope Paradigm world: multiple 
 
 ## Status
 
-Active infrastructure hardening, role definition, and phased execution development.
+Stable and reachable infrastructure; creative execution roles are planned for implementation after Satori stabilization.
