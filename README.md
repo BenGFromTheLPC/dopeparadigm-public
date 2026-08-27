@@ -54,6 +54,7 @@ Alongside the Dope Paradigm ecosystem, this repo also has room for anonymized en
 
 ## Recent Updates
 
+- [2026-08-27 — Dope Paradigm HQ: Building the Fan Experience](./00-updates/2026-08-27-dope-paradigm-hq-fan-experience.md)
 - [2026-05-29 — Dope Paradigm HQ Music Playback, Top Plays, and Catalog Polish](./00-updates/2026-05-29-dphq-music-playback-top-plays-and-catalog-polish.md)
 - [2026-05-23 — Apple Music Import Workflow and Shared Music Pipeline Progress](./00-updates/2026-05-23-apple-music-import-workflow-and-shared-music-pipeline-progress.md)
 - [2026-05-29 — Public Portfolio Layer and Dashboard Strategy](./00-updates/2026-05-29-public-portfolio-layer-and-dashboard-strategy.md)
