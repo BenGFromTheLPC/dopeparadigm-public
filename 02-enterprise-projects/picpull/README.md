@@ -31,7 +31,7 @@ At a high level, the app is organized around one focused desktop workflow:
 - media filtering supports photos-only, videos-only, or combined imports
 - folder-layout options support either a flat export or separated photo/video subfolders
 - copy progress, elapsed time, and verification feedback make the transfer state easy to monitor
-- optional HEIC-to-JPEG conversion supports workflows that need more common image outputs while preserving the original files in an archive folder
+- optional compatibility conversion supports HEIC-to-JPEG and MOV-to-MP4 workflows while preserving original files in archive folders
 
 ## Framework / Feature Notes
 
@@ -40,6 +40,7 @@ At a high level, this project currently uses:
 - SwiftUI
 - ImageCaptureCore
 - ImageIO
+- AVFoundation
 - AppKit where macOS-native file picking is needed
 - local file-system workflows for copy, verification, and export organization
 
